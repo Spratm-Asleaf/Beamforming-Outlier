@@ -24,8 +24,6 @@ Affiliated with the Department of Electrical & Electronic Engineering, Imperial 
 
 - The main folder contains all core functions (i.e., the algorithmic implementations of Algorithm 1).
 
-- The folder "Beamformers" includes beamforming functions.
-
 - The folder "Tools" includes supporting functions.
 
 **Warrant**
