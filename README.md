@@ -12,7 +12,7 @@ Online supplementary materials of the paper titled
 
 **Distributionally Robust Outlier-Aware Receive Beamforming**
 
-Published in the _2024 IEEE International Workshop on Machine Learning for Signal Processing_ (Conference Home: [IEEE MLSP 2024](https://2024.ieeemlsp.org/))
+Published in the _2024 IEEE International Workshop on Machine Learning for Signal Processing_ (DOI: [10.1109/MLSP58920.2024.10734797](https://ieeexplore.ieee.org/abstract/document/10734797))
 
 Authored by Shixiong Wang, Wei Dai, and Geoffrey Ye Li
 
